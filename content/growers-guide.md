@@ -6,9 +6,11 @@
 
 ---
 
-## Build it in veg
+## Build the canopy before the flip
 
-The canopy you flip is the canopy you’re going to finish with. Once plants move into flower, you’re mostly working with the structure built during veg.
+The canopy you take into flower depends on the tops you build in veg. The flip develops that structure; it does not replace the work done before it.
+
+After the photoperiod changes, the plant shifts from building vegetative structure toward stretching and developing flowers. Once stretch ends, the opportunity to materially reshape the canopy is limited. Veg is the stage when growers have the most control over the number, position and uniformity of usable tops.
 
 That’s why this program starts early. Apply **Step 1 — CATALYST** three to five days after transplant, once the plants are moving again. Follow with **Step 2 — AMPLIFY** five to seven days later as new nodes and branches develop.
 
