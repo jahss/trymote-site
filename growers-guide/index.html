@@ -3,14 +3,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mote Grower's Guide | Step 1 — Catalyst + Step 2 — Amplify</title>
-  <meta name="description" content="Mote application timing and operating guidance for Step 1 — Catalyst and Step 2 — Amplify.">
-  <meta name="theme-color" content="#0b0f0d">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='13' fill='%230b0f0d'/%3E%3Cpath d='M14 42h15V27h21' fill='none' stroke='%23c9ff57' stroke-width='8' stroke-linecap='square'/%3E%3C/svg%3E">
+  <title>Mote Grower's Guide | Step 1 — CATALYST + Step 2 — AMPLIFY</title>
+  <meta name="description" content="Mote application timing and operating guidance for Step 1 — CATALYST and Step 2 — AMPLIFY.">
+  <meta name="theme-color" content="#080F12">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='13' fill='%23080F12'/%3E%3Cpath d='M14 42h15V27h21' fill='none' stroke='%23418727' stroke-width='8' stroke-linecap='square'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <style>
     :root {
       color-scheme: dark;
-      --ink: #0b0f0d;
+      --ink: #080F12;
       --panel: #121814;
       --panel-2: #182019;
       --paper: #eef2e7;
@@ -440,13 +443,57 @@
       .section-label { position: static; }
       .step-stack, .schedule-card, .product, .rule, .mother, .limit { box-shadow: none; }
     }
+
+    /* Mote brand: light reading surfaces, dark hero, green accents. */
+    :root {
+      color-scheme: light;
+      --ink: #080F12; --panel: #FFFFFF; --panel-2: #FFFFFF;
+      --paper: #080F12; --white: #080F12; --muted: #4d595e;
+      --line: #dce1df; --acid: #418727; --acid-soft: #e9efe5;
+    }
+    body { background: #F2F3F1; font-family: Montserrat, sans-serif; }
+    .topbar { background: rgba(242,243,241,.97); border-color: var(--line); }
+    .quick-nav a { color: #080F12; }
+    .quick-nav a:hover, .quick-nav a:focus-visible, .quick-nav a.active { background: #418727; color: #FFFFFF; }
+    .brand-logo { width: 9rem; height: 3.4rem; }
+    .hero {
+      position: relative; isolation: isolate; min-height: auto;
+      display: block; padding: clamp(3rem,7vw,5rem) 0;
+      color: #FFFFFF;
+    }
+    .hero::before { content: ""; position: absolute; inset: 0 calc((min(1180px, 100vw - 2rem) - 100vw)/2); background: #080F12; z-index: -1; }
+    h1 { max-width: 24ch; font-size: clamp(2rem,4.7vw,4.2rem); line-height: 1.12; overflow-wrap: anywhere; }
+    .hero h1, .hero h1 span { color: #FFFFFF; }
+    .hero .eyebrow { display: inline-block; background: #418727; color: #FFFFFF; padding: .4rem .8rem; }
+    .lede { color: #F2F3F1; max-width: 52rem; }
+    .step-stack { display: none; }
+    .section { padding: clamp(3rem,6vw,5rem) 0; }
+    .prose p { color: #344249; }
+    .prose .pull { color: #080F12; }
+    .schedule-card, .product, .rule, .mother, .limit, .cycle-node { border-radius: .65rem; }
+    .schedule-card.primary { background: #FFFFFF; border-color: #dce1df; }
+    .rule.acid { background: #418727; }
+    .rule.acid h3, .rule.acid p, .rule.acid strong { color: #FFFFFF; }
+    .mother::after { color: rgba(65,135,39,.06); }
+    .footer-brand { display: flex; justify-content: center; align-items: center; gap: 2rem; padding: 1rem 0 2rem; }
+    .footer-brand .footer-logo { width: 10rem; height: auto; }
+    .footer-brand .footer-tagline { width: min(22rem,55%); height: auto; }
+    @media (max-width:640px) {
+      .topbar-inner { flex-wrap: wrap; justify-content: center; padding: .35rem 0; }
+      .quick-nav { max-width: 100%; width: 100%; justify-content: center; }
+      .hero::before { inset-inline: -.625rem; }
+      .footer-brand { flex-direction: column; gap: .25rem; }
+      .footer-brand .footer-tagline { width: min(22rem,100%); }
+    }
+    @media print { .hero::before { display:none; } .hero h1,.hero h1 span,.lede { color:#080F12; } }
+
   </style>
 </head>
 <body>
   <header class="topbar">
     <div class="topbar-inner">
-      <a class="brand" href="#top" aria-label="Mote Step 1 — Catalyst and Step 2 — Amplify guide home">
-      <img class="brand-logo" src="../assets/mote-logo-primary.png" alt="Mote">
+      <a class="brand" href="#top" aria-label="Mote Step 1 — CATALYST and Step 2 — AMPLIFY guide home">
+      <img class="brand-logo" src="../assets/mote-logo-soft.png" alt="Mote">
         <span>Grower's Guide</span>
       </a>
       <nav class="quick-nav" aria-label="Guide sections">
@@ -463,7 +510,7 @@
     <section class="hero" aria-labelledby="page-title">
       <div>
         <p class="eyebrow">Online grower's guide</p>
-        <h1 id="page-title">Step 1 — Catalyst <span>+</span> Step 2 — Amplify</h1>
+        <h1 id="page-title">Step 1 — CATALYST <span>+</span> Step 2 — AMPLIFY</h1>
         <p class="lede">Two ready-to-use foliar products for building a stronger, more even canopy in veg.</p>
       </div>
 
@@ -471,13 +518,13 @@
         <div class="step">
           <span class="step-number">1</span>
           <small>Day 3–5</small>
-          <b>Step 1 — Catalyst</b>
+          <b>Step 1 — CATALYST</b>
           <p>Establish an even start after transplant.</p>
         </div>
         <div class="step">
           <span class="step-number">2</span>
           <small>5–7 days later</small>
-          <b>Step 2 — Amplify</b>
+          <b>Step 2 — AMPLIFY</b>
           <p>Support active growth as nodes and branches develop.</p>
         </div>
         <div class="flip-band">
@@ -495,8 +542,8 @@
         </header>
         <div class="prose">
           <p>The canopy you flip is the canopy you’re going to finish with. Once plants move into flower, you’re mostly working with the structure built during veg.</p>
-          <p>That’s why this program starts early. Apply <strong>Step 1 — Catalyst</strong> three to five days after transplant, once the plants are moving again. Follow with <strong>Step 2 — Amplify</strong> five to seven days later as new nodes and branches develop.</p>
-          <div class="pull">In fast rooms, both applications are finished before a day 10–14 flip. If you veg longer, continue alternating <strong>Step 1 — Catalyst</strong> and <strong>Step 2 — Amplify</strong> every five to seven days until you’re ready to flip.</div>
+          <p>That’s why this program starts early. Apply <strong>Step 1 — CATALYST</strong> three to five days after transplant, once the plants are moving again. Follow with <strong>Step 2 — AMPLIFY</strong> five to seven days later as new nodes and branches develop.</p>
+          <div class="pull">In fast rooms, both applications are finished before a day 10–14 flip. If you veg longer, continue alternating <strong>Step 1 — CATALYST</strong> and <strong>Step 2 — AMPLIFY</strong> every five to seven days until you’re ready to flip.</div>
         </div>
       </div>
     </section>
@@ -515,8 +562,8 @@
               <h3>10–14-day veg</h3>
               <ul class="timeline">
                 <li><time>Day 0</time><span>Transplant as normal</span></li>
-                <li><time>Day 3–5</time><span><strong>Step 1 — Catalyst</strong></span></li>
-                <li><time>+5–7 days</time><span><strong>Step 2 — Amplify</strong></span></li>
+                <li><time>Day 3–5</time><span><strong>Step 1 — CATALYST</strong></span></li>
+                <li><time>+5–7 days</time><span><strong>Step 2 — AMPLIFY</strong></span></li>
                 <li><time>Day 10–14</time><span>Flip according to the room schedule</span></li>
               </ul>
             </article>
@@ -524,8 +571,8 @@
               <span class="kicker">Longer veg</span>
               <h3>Keep the interval</h3>
               <ul class="timeline">
-                <li><time>Start</time><span>Apply <strong>Step 1 — Catalyst</strong></span></li>
-                <li><time>+5–7 days</time><span>Apply <strong>Step 2 — Amplify</strong></span></li>
+                <li><time>Start</time><span>Apply <strong>Step 1 — CATALYST</strong></span></li>
+                <li><time>+5–7 days</time><span>Apply <strong>Step 2 — AMPLIFY</strong></span></li>
                 <li><time>Ongoing</time><span>Continue alternating both products every 5–7 days until ready to flip</span></li>
               </ul>
             </article>
@@ -533,15 +580,15 @@
 
           <div class="prose">
             <p>This is the fast schedule. Both products are applied within the first 8–12 days, leaving the plants ready for a day 10–14 flip.</p>
-            <p>Earlier is better, but the day 3–5 window is not a hard cutoff. If you miss it, apply <strong>Step 1 — Catalyst</strong> when you can and follow with <strong>Step 2 — Amplify</strong> five to seven days later.</p>
+            <p>Earlier is better, but the day 3–5 window is not a hard cutoff. If you miss it, apply <strong>Step 1 — CATALYST</strong> when you can and follow with <strong>Step 2 — AMPLIFY</strong> five to seven days later.</p>
           </div>
 
           <div class="cycle" aria-label="Alternating application cycle">
-            <div class="cycle-node"><small>Start</small><strong>Step 1 — Catalyst</strong></div>
+            <div class="cycle-node"><small>Start</small><strong>Step 1 — CATALYST</strong></div>
             <span class="cycle-arrow" aria-hidden="true">→</span>
-            <div class="cycle-node"><small>5–7 days later</small><strong>Step 2 — Amplify</strong></div>
+            <div class="cycle-node"><small>5–7 days later</small><strong>Step 2 — AMPLIFY</strong></div>
             <span class="cycle-arrow" aria-hidden="true">→</span>
-            <div class="cycle-node"><small>5–7 days later</small><strong>Repeat Step 1 — Catalyst</strong></div>
+            <div class="cycle-node"><small>5–7 days later</small><strong>Repeat Step 1 — CATALYST</strong></div>
           </div>
           <div class="prose">
             <p>The timing stays the same. A longer veg simply gives you more cycles.</p>
@@ -559,18 +606,18 @@
         <div class="product-grid">
           <article class="product">
             <span class="number">Prime application</span>
-            <h3>Step 1 — Catalyst</h3>
+            <h3>Step 1 — CATALYST</h3>
             <p><strong>Prime timing: 3–5 days after transplant.</strong></p>
             <p>Give the plants a few days to settle after transplant. By day three to five, rooted cuttings should be moving water on their own and putting transplant stress behind them.</p>
-            <p>That is the window for <strong>Step 1 — Catalyst</strong>. The aim is simple: get the batch moving evenly. Small differences early in veg tend to become bigger differences later.</p>
-            <p><strong>Day 3–5 is the best window, not a hard cutoff.</strong> If you miss it, apply <strong>Step 1 — Catalyst</strong> when you can and keep the usual five-to-seven-day interval before <strong>Step 2 — Amplify</strong>.</p>
+            <p>That is the window for <strong>Step 1 — CATALYST</strong>. The aim is simple: get the batch moving evenly. Small differences early in veg tend to become bigger differences later.</p>
+            <p><strong>Day 3–5 is the best window, not a hard cutoff.</strong> If you miss it, apply <strong>Step 1 — CATALYST</strong> when you can and keep the usual five-to-seven-day interval before <strong>Step 2 — AMPLIFY</strong>.</p>
           </article>
           <article class="product">
             <span class="number">Prime application</span>
-            <h3>Step 2 — Amplify</h3>
-            <p><strong>Prime timing: 5–7 days after Step 1 — Catalyst.</strong></p>
-            <p>Apply <strong>Step 2 — Amplify</strong> once the plants are clearly growing again and adding nodes. This is when that early growth starts turning into the branches and tops the plants will carry into flower.</p>
-            <p><strong>Step 1 — Catalyst gets the batch moving. Step 2 — Amplify follows as the canopy starts to build.</strong></p>
+            <h3>Step 2 — AMPLIFY</h3>
+            <p><strong>Prime timing: 5–7 days after Step 1 — CATALYST.</strong></p>
+            <p>Apply <strong>Step 2 — AMPLIFY</strong> once the plants are clearly growing again and adding nodes. This is when that early growth starts turning into the branches and tops the plants will carry into flower.</p>
+            <p><strong>Step 1 — CATALYST gets the batch moving. Step 2 — AMPLIFY follows as the canopy starts to build.</strong></p>
           </article>
         </div>
       </div>
@@ -623,10 +670,10 @@
           <h2>For mother plants.</h2>
         </header>
         <article class="mother">
-          <p>Mother plants can stay on the same alternating schedule. After taking cuttings, give the plant <strong>Step 1 — Catalyst</strong> while it recovers, then follow with <strong>Step 2 — Amplify</strong> as the new shoots come in.</p>
+          <p>Mother plants can stay on the same alternating schedule. After taking cuttings, give the plant <strong>Step 1 — CATALYST</strong> while it recovers, then follow with <strong>Step 2 — AMPLIFY</strong> as the new shoots come in.</p>
           <ol>
-            <li>Apply <strong>Step 1 — Catalyst</strong> within one to two days after taking cuttings.</li>
-            <li>Apply <strong>Step 2 — Amplify</strong> five to seven days later during regrowth.</li>
+            <li>Apply <strong>Step 1 — CATALYST</strong> within one to two days after taking cuttings.</li>
+            <li>Apply <strong>Step 2 — AMPLIFY</strong> five to seven days later during regrowth.</li>
             <li>Keep alternating the two products every five to seven days.</li>
           </ol>
           <p>On a 10–14-day cutting cycle, that works out to about one application per week.</p>
@@ -642,24 +689,24 @@
         </header>
         <div class="faq-list">
           <details>
-            <summary>I missed the Step 1 — Catalyst window. It is day 8.</summary>
-            <p>Apply Step 1 — Catalyst when you can, then apply Step 2 — Amplify five to seven days later. Day three to five is the best window, but day eight is not too late.</p>
+            <summary>I missed the Step 1 — CATALYST window. It is day 8.</summary>
+            <p>Apply Step 1 — CATALYST when you can, then apply Step 2 — AMPLIFY five to seven days later. Day three to five is the best window, but day eight is not too late.</p>
           </details>
           <details>
             <summary>I sprayed on day one, before the plants were moving water on their own.</summary>
-            <p>Stay on schedule. Apply Step 2 — Amplify five to seven days later, once the plants are moving and growing again.</p>
+            <p>Stay on schedule. Apply Step 2 — AMPLIFY five to seven days later, once the plants are moving and growing again.</p>
           </details>
           <details>
             <summary>My veg is only ten days. Does the program fit?</summary>
-            <p>Yes. Apply Step 1 — Catalyst on day three and Step 2 — Amplify five days later. Both applications are finished by day eight.</p>
+            <p>Yes. Apply Step 1 — CATALYST on day three and Step 2 — AMPLIFY five days later. Both applications are finished by day eight.</p>
           </details>
           <details>
             <summary>My veg is six weeks.</summary>
-            <p>Apply Step 1 — Catalyst, followed by Step 2 — Amplify five to seven days later. Continue alternating the two products every five to seven days until the plants are ready to flip.</p>
+            <p>Apply Step 1 — CATALYST, followed by Step 2 — AMPLIFY five to seven days later. Continue alternating the two products every five to seven days until the plants are ready to flip.</p>
           </details>
           <details>
             <summary>Can I apply it again later in veg?</summary>
-            <p>Yes. Keep alternating Step 1 — Catalyst and Step 2 — Amplify every five to seven days until the plants are ready to flip.</p>
+            <p>Yes. Keep alternating Step 1 — CATALYST and Step 2 — AMPLIFY every five to seven days until the plants are ready to flip.</p>
           </details>
           <details>
             <summary>I top, train or run sea of green.</summary>
@@ -702,6 +749,10 @@
   </main>
 
   <footer>
+    <div class="footer-brand">
+      <img class="footer-logo" src="../assets/mote-logo-soft.png" alt="Mote">
+      <img class="footer-tagline" src="../assets/mote-logo-black.png" alt="Mote tagline">
+    </div>
     For use on legally cultivated crops in accordance with all applicable state and local regulations. Not a pesticide, fungicide or plant growth regulator. Keep out of reach of children.
   </footer>
 
