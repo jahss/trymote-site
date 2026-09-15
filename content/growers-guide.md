@@ -1,8 +1,8 @@
-# Grower's Guide — Catalyst + Amplify
+# Grower's Guide — CATALYST + AMPLIFY
 
 **A canopy you can repeat.**
 
-**Step 1 — Catalyst. Step 2 — Amplify.** Two ready-to-use foliar products for building a stronger, more even canopy in veg.
+**Step 1 — CATALYST. Step 2 — AMPLIFY.** Two ready-to-use foliar products for building a stronger, more even canopy in veg.
 
 ---
 
@@ -10,9 +10,9 @@
 
 The canopy you flip is the canopy you’re going to finish with. Once plants move into flower, you’re mostly working with the structure built during veg.
 
-That’s why this program starts early. Apply **Step 1 — Catalyst** three to five days after transplant, once the plants are moving again. Follow with **Step 2 — Amplify** five to seven days later as new nodes and branches develop.
+That’s why this program starts early. Apply **Step 1 — CATALYST** three to five days after transplant, once the plants are moving again. Follow with **Step 2 — AMPLIFY** five to seven days later as new nodes and branches develop.
 
-In fast rooms, both applications are finished before a day 10–14 flip. If you veg longer, continue alternating **Step 1 — Catalyst** and **Step 2 — Amplify** every five to seven days until you’re ready to flip.
+In fast rooms, both applications are finished before a day 10–14 flip. If you veg longer, continue alternating **Step 1 — CATALYST** and **Step 2 — AMPLIFY** every five to seven days until you’re ready to flip.
 
 ---
 
@@ -23,25 +23,25 @@ In fast rooms, both applications are finished before a day 10–14 flip. If you 
 | Stage | Timing |
 |---|---|
 | Transplant | Day 0 — pot up as normal |
-| **Step 1 — Catalyst** | **Day 3–5** |
-| **Step 2 — Amplify** | **Five to seven days later** |
+| **Step 1 — CATALYST** | **Day 3–5** |
+| **Step 2 — AMPLIFY** | **Five to seven days later** |
 | Flip | Day 10–14, according to the room schedule |
 
 This is the fast schedule. Both products are applied within the first 8–12 days, leaving the plants ready for a day 10–14 flip.
 
 Veg time changes from room to room. The interval between products stays the same.
 
-Earlier is better, but the day 3–5 window is not a hard cutoff. If you miss it, apply **Step 1 — Catalyst** when you can and follow with **Step 2 — Amplify** five to seven days later.
+Earlier is better, but the day 3–5 window is not a hard cutoff. If you miss it, apply **Step 1 — CATALYST** when you can and follow with **Step 2 — AMPLIFY** five to seven days later.
 
 ### Longer veg
 
-Start the same way: apply **Step 1 — Catalyst**, then apply **Step 2 — Amplify** five to seven days later.
+Start the same way: apply **Step 1 — CATALYST**, then apply **Step 2 — AMPLIFY** five to seven days later.
 
 After that, keep alternating the two products every five to seven days until the plants are ready to flip:
 
-1. **Step 1 — Catalyst**
+1. **Step 1 — CATALYST**
 2. Five to seven days
-3. **Step 2 — Amplify**
+3. **Step 2 — AMPLIFY**
 4. Five to seven days
 5. Repeat
 
@@ -49,23 +49,23 @@ The timing stays the same. A longer veg simply gives you more cycles.
 
 ---
 
-## Step 1 — Catalyst
+## Step 1 — CATALYST
 
 **Apply 3–5 days after transplant.**
 
 Give the plants a few days to settle after transplant. By day three to five, rooted cuttings should be moving water on their own and putting transplant stress behind them.
 
-That is the window for **Step 1 — Catalyst**. The aim is simple: get the batch moving evenly. Small differences early in veg tend to become bigger differences later.
+That is the window for **Step 1 — CATALYST**. The aim is simple: get the batch moving evenly. Small differences early in veg tend to become bigger differences later.
 
-**Day 3–5 is the best window, not a hard cutoff.** If you miss it, apply **Step 1 — Catalyst** when you can and keep the usual five-to-seven-day interval before **Step 2 — Amplify**.
+**Day 3–5 is the best window, not a hard cutoff.** If you miss it, apply **Step 1 — CATALYST** when you can and keep the usual five-to-seven-day interval before **Step 2 — AMPLIFY**.
 
-## Step 2 — Amplify
+## Step 2 — AMPLIFY
 
-**Apply 5–7 days after Step 1 — Catalyst.**
+**Apply 5–7 days after Step 1 — CATALYST.**
 
-Apply **Step 2 — Amplify** once the plants are clearly growing again and adding nodes. This is when that early growth starts turning into the branches and tops the plants will carry into flower.
+Apply **Step 2 — AMPLIFY** once the plants are clearly growing again and adding nodes. This is when that early growth starts turning into the branches and tops the plants will carry into flower.
 
-**Step 1 — Catalyst gets the batch moving. Step 2 — Amplify follows as the canopy starts to build.**
+**Step 1 — CATALYST gets the batch moving. Step 2 — AMPLIFY follows as the canopy starts to build.**
 
 ---
 
@@ -93,12 +93,12 @@ Ready-to-use bottles keep the application consistent between operators and batch
 
 ## Mother plants
 
-Mother plants can stay on the same alternating schedule. After taking cuttings, give the plant **Step 1 — Catalyst** while it recovers, then follow with **Step 2 — Amplify** as the new shoots come in.
+Mother plants can stay on the same alternating schedule. After taking cuttings, give the plant **Step 1 — CATALYST** while it recovers, then follow with **Step 2 — AMPLIFY** as the new shoots come in.
 
 | Step | Timing |
 |---|---|
-| **Step 1 — Catalyst** | Within 1–2 days after taking cuttings |
-| **Step 2 — Amplify** | 5–7 days later, during regrowth |
+| **Step 1 — CATALYST** | Within 1–2 days after taking cuttings |
+| **Step 2 — AMPLIFY** | 5–7 days later, during regrowth |
 
 Keep alternating the two products every five to seven days. On a 10–14-day cutting cycle, that works out to about one application per week.
 
@@ -116,20 +116,20 @@ Store cool and out of direct light. Keep bottles upright and tightly closed. Loc
 
 ## If the schedule changes
 
-**I missed the Step 1 — Catalyst window. It is day 8.**  
-Apply Step 1 — Catalyst when you can, then apply Step 2 — Amplify five to seven days later. Day three to five is the best window, but day eight is not too late.
+**I missed the Step 1 — CATALYST window. It is day 8.**  
+Apply Step 1 — CATALYST when you can, then apply Step 2 — AMPLIFY five to seven days later. Day three to five is the best window, but day eight is not too late.
 
 **I sprayed on day one, before the plants were moving water on their own.**  
-Stay on schedule. Apply Step 2 — Amplify five to seven days later, once the plants are moving and growing again.
+Stay on schedule. Apply Step 2 — AMPLIFY five to seven days later, once the plants are moving and growing again.
 
 **My veg is only ten days. Does the program fit?**  
-Yes. Apply Step 1 — Catalyst on day three and Step 2 — Amplify five days later. Both applications are finished by day eight.
+Yes. Apply Step 1 — CATALYST on day three and Step 2 — AMPLIFY five days later. Both applications are finished by day eight.
 
 **My veg is six weeks.**  
-Apply Step 1 — Catalyst, followed by Step 2 — Amplify five to seven days later. Continue alternating the two products every five to seven days until the plants are ready to flip.
+Apply Step 1 — CATALYST, followed by Step 2 — AMPLIFY five to seven days later. Continue alternating the two products every five to seven days until the plants are ready to flip.
 
 **Can I apply it again later in veg?**  
-Yes. Keep alternating Step 1 — Catalyst and Step 2 — Amplify every five to seven days until the plants are ready to flip.
+Yes. Keep alternating Step 1 — CATALYST and Step 2 — AMPLIFY every five to seven days until the plants are ready to flip.
 
 **I top, train or run sea of green.**  
 Keep doing what works in your room. These products do not replace topping, training, spacing or trellising.
