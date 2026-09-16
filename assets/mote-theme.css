@@ -506,7 +506,7 @@
   background: #F2F3F1; color: #080F12;
 }
 .site-coming-soon main { width: min(42rem, calc(100% - 3rem)); padding: 3rem 0; text-align: center; }
-.site-coming-soon main img { display: block; width: min(25rem, 82vw); height: auto; margin: 0 auto 2.25rem; }
+.site-coming-soon main img { display: block; width: min(34rem, 88vw); height: auto; margin: 0 auto 2.25rem; }
 .site-coming-soon main p {
   margin: 0; color: #418727; font-size: clamp(.8rem, 2vw, .95rem);
   font-weight: 800; letter-spacing: .24em; text-transform: uppercase;

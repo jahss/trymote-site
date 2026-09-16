@@ -1,5 +1,13 @@
 # Mote site theme
 
+## Brand assets
+
+- `assets/mote-logo-notagline.png` — primary header wordmark
+- `assets/mote-logo-complete.png` — full logo lockup for launch and promotional surfaces
+- `assets/mote-logo-profile.png` — square profile lockup
+- `assets/mote-tagline.png` — standalone footer tagline
+- `assets/mote-favicon.png` — browser and small-interface mark
+
 This directory documents the reusable visual system used across trymote.com.
 
 ## Brand foundation
